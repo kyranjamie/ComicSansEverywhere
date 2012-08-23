@@ -1,0 +1,1 @@
+javascript: var all = document.getElementsByTagName('*'); for (var i = 0, n = all.length; i < n; i++) { all[i].style.fontFamily = '"Comic Sans MS", "Chalkboard"';} void 0;

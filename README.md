@@ -11,4 +11,4 @@ And there you go, simply click on the bookmark and change every website to your 
 
 Changes font on every element to have font style of Comic Sans MS (or Chalkboard as a fall back).  I made this largly as a piss take, although I maintain that (somewhere) it may have some practical use.
 
-I've seen other bookmarklets doing the exact same as this, but using jQuery - which is pretty unnecessary.
+I've seen [other bookmarklets](http://comicsansit.com/) doing the exact same as this, but by loading jQuery and using that - which is pretty unnecessary.

@@ -1,4 +1,5 @@
 ![Comic Sans Everywhere](title.jpg)
+
 A simple JavaScript [bookmarklet](http://en.wikipedia.org/wiki/Bookmarklet) allowing you to change your favourite websites to Comic Sans!
 
 ## Instructions
